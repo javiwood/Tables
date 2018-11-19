@@ -1,4 +1,3 @@
-# ClassProject
-Adding Tables
+# Adding Tables
 
-<H1>This is my Oracle 12c Class Project</H1>
+<H1>Oracle 12c OCA end of chapter assignments.</H1>
